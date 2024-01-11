@@ -14,6 +14,6 @@ https://cdn.jsdelivr.net/gh/Bluedog76/HuskyJSloader/Scripts/Edpuzzle.js
 
 ### Exuction code (Put in bookmark!)
 
-javascript: fetch("https://cdn.jsdelivr.net/gh/Bluedog76/HuskyJSloader/Scripts/Edpuzzle.js").then(r => r.text()).then(r => eval(r))
+javascript: fetch("https://cdn.jsdelivr.net/gh/Bluedog76/HuskyJSloader@main/Scripts/Edpuzzle.js").then(r => r.text()).then(r => eval(r))
 
 ## More to come. Free for Suggestions :D
