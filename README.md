@@ -16,4 +16,7 @@ https://cdn.jsdelivr.net/gh/Bluedog76/HuskyJSloader/Scripts/Edpuzzle.js
 
 javascript: fetch("https://cdn.jsdelivr.net/gh/Bluedog76/HuskyJSloader@main/Scripts/Edpuzzle.js").then(r => r.text()).then(r => eval(r))
 
+## Thinking of making a port for Car axle but it talks to github a lot more than edpuzzle cheats :/
+
 ## More to come. Free for Suggestions :D
+
