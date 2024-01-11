@@ -1,4 +1,3 @@
-Find what you need faster … Home is your new landing page and surfaces your most relevant files and folders
 var popup = null;
 var base_url;
 if (typeof document.dev_env != "undefined") {
