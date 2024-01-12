@@ -8,7 +8,7 @@ if (typeof document.dev_env != "undefined") {
 else {
   //get resources off of github to not inflate the jsdelivr stats
   base_url = "https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest";
-  Alert('Beware; You are Running an Unoffical Edited Version By Bluedog76')
+  alert('Beware... You are Running an Unoffical Edited Version By Bluedog76');
 }
 
 function http_get(url, callback, headers=[], method="GET", content=null) {
